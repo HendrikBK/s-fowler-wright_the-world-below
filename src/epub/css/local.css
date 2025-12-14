@@ -18,3 +18,12 @@
 [epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
+
+/* List in chapte 2-8 */
+ul{
+	list-style-type: none;
+}
+
+ul li + li{
+	margin-top: .25em;
+}

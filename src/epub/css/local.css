@@ -19,11 +19,7 @@
 	display: none;
 }
 
-/* List in chapte 2-8 */
-ul{
-	list-style-type: none;
-}
-
-ul li + li{
-	margin-top: .5em;
+/* Blockquote with articles in chapter 2-8 */
+#chapter-2-8 blockquote p{
+	text-indent: 1em;
 }

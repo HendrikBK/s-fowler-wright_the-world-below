@@ -51,11 +51,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/S._Fowler_Wright</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50028683</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Gustave Courbet</dc:contributor>
-		<meta property="file-as" refines="#artist">Courbet, Gustave</meta>
-		<meta property="se:name.person.full-name" refines="#artist">Jean Désiré Gustave Courbet</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Gustave_Courbet</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80057228</meta>
+		<dc:contributor id="artist">Anonymous</dc:contributor>
+		<meta property="file-as" refines="#artist">Anonymous</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Roger Frank</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Frank, Roger</meta>
